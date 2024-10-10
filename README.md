@@ -1,4 +1,4 @@
-# LOG3430-C5-G01-A2023
+# Exercice CoinBox LOG3430
 
 - nécessite python 3.7 (ou version supérieur)
 
